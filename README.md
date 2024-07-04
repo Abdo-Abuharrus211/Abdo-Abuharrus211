@@ -11,4 +11,3 @@ But if you'd like a preview, please check it out [here.](https://ar-web-app.onre
 ---
 ### Current Role:
 I'm currently working as a System Analyst Co-op for the Provincial Health Services Authority of British Columbia, getting my PowerShell scripting and automation stripes!
----
