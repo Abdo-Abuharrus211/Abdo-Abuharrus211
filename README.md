@@ -7,7 +7,10 @@
 My name's Abdulqadir.You can call me Abdo. <br>I'm a BCIT CST student, coding my way through my software journey.<br>
 I'm learning new things daily and am always on the lookout for more opportunities.
 
-### Current Role:
+## Current Role:
+CTO @ Enactus BCIT and Lead Developer on Ecometer.
+
+### Previous Role:
 System Analyst Co-op for the Provincial Health Services Authority of British Columbia.
 
 ### What's new?
