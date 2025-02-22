@@ -1,6 +1,6 @@
 # Who am I?
-My name's Abdulqadir.You can call me Abdo. <br>I'm a BCIT CST student, coding my way through my software journey.<br>
-I'm learning new things daily and am always on the lookout for more opportunities.
+My name's Abdulqadir, you may call me Abdo. <br>I'm a BCIT CST student, coding my way through my software journey.<br>
+Learning new things every day and I'm always on the lookout for more opportunities to grow my skill-set and experience.
 
 ### Current Role:
 CTO @ Enactus BCIT and Lead Developer on Ecometer.
