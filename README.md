@@ -1,4 +1,4 @@
-# Who am I?
+# Ya hala!
 I'm Abdo. I like code things up, watch them break, scratch my head, and try to fix them.
 
 ### Current Role:
