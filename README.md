@@ -1,5 +1,5 @@
 # Ya hala!
-I'm Abdo. I like to code things up, watch them break, scratch my head wondering why, and try to fix them.
+I'm Abdu. I like to code things up, watch them break, scratch my head wondering why, and try to fix them.
 
 ## Roles
 ### Current Role:
