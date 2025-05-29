@@ -30,6 +30,6 @@ CTO @ Enactus BCIT and Lead Developer on the Ecometer project; a Ruby on Rails a
 * Updating and fixing a Ruby on Rails app that was in rough shape, my team and I are currently tending to its many issues while preparing the grounds for new features coming soon.
 
 ## Contact Info
-aabuharrus@gmail.com
+abdu@aabuharrus.dev
 
 [LinkedIn](https://www.linkedin.com/in/aabuharrus/)
