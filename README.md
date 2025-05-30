@@ -16,18 +16,18 @@ I'm Abdu. I like to code things up, watch them break, scratch my head wondering 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 
 
-Honestly, I could keep pinning badges but ya get the point... I'm not the most proficient in anything but constant hunger to learn means I'm always checking out new things.
+Honestly, I could keep pinning badges but ya get the point... I'm not the most proficient in these skills, but a constant hunger to learn means I'm always trying out new things.
 ## Roles
 ### Current Role:
-CTO @ Enactus BCIT and Lead Developer on the Ecometer project; a Ruby on Rails app that helps restaurant goers make informed choices regarding restaurants sustainability.
+CTO @ Enactus BCIT and Lead Developer on the Ecometer project, a Ruby on Rails app that helps restaurant goers make informed choices regarding restaurants' sustainability.
 
 ### Previous Role(s):
+-  React Native Mobile Developer (practicum) for [Impulse Studios](https://impulsestudios.ca/).
 - System Analyst Co-op for the Provincial Health Services Authority of British Columbia (PHSA).
 
 ## What's new?
-* My last term at BCIT as a CST student, the journey nears its end... I'm looking forward to joining the industry and having time for some new and exciting projects!
-* The code-practice grind commences! Must ready myself for technical interviews that are inherently broken across the entire industry...
-* Updating and fixing a Ruby on Rails app that was in rough shape, my team and I are currently tending to its many issues while preparing the grounds for new features coming soon.
+* Completed my time at BCIT, graduating from the CST program, and I'm looking forward to joining the industry and having time for some new and exciting projects!
+* The code-practice and interview prep commences! Must ready myself for technical interviews that are inherently broken across the entire industry...
 
 ## Contact Info
 abdu@aabuharrus.dev
