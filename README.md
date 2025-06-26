@@ -1,5 +1,5 @@
 # Ya hala!
-I'm Abdu. I like to code things up, watch them break, scratch my head wondering why, and try to fix them.
+I'm Abdu. I like to code things I need, watch them break, scratch my head wondering why, and try to fix them.
 
 ## Skills
 
@@ -17,17 +17,14 @@ I'm Abdu. I like to code things up, watch them break, scratch my head wondering 
 
 
 Honestly, I could keep pinning badges but ya get the point... I'm not the most proficient in these skills, but a constant hunger to learn means I'm always trying out new things.
-## Roles
-### Current Role:
-CTO @ Enactus BCIT and Lead Developer on the Ecometer project, a Ruby on Rails app that helps restaurant goers make informed choices regarding restaurants' sustainability.
 
-### Previous Role(s):
--  React Native Mobile Developer (practicum) for [Impulse Studios](https://impulsestudios.ca/).
+## Current Role:
+Graduated from BCIT's CST program and entering the job market (pray for me) and building some pet projects I've been thinking of for a while.
+
+### Previous experience:
+- CTO @ Enactus BCIT and Lead Developer on the Ecometer project, a Ruby on Rails app that helps restaurant goers make informed choices regarding restaurants' sustainability.
+-    React Native Mobile Developer (practicum) for [Impulse Studios](https://impulsestudios.ca/).
 - System Analyst Co-op for the Provincial Health Services Authority of British Columbia (PHSA).
-
-## What's new?
-* Completed my time at BCIT, graduating from the CST program, and I'm looking forward to joining the industry and having time for some new and exciting projects!
-* The code-practice and interview prep commences! Must ready myself for technical interviews that are inherently broken across the entire industry...
 
 ## Contact Info
 abdu@aabuharrus.dev
