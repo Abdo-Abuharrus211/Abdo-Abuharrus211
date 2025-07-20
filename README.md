@@ -16,10 +16,10 @@ I'm Abdu. I like to code things I need, watch them break, scratch my head wonder
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 
 
-Honestly, I could keep pinning badges but ya get the point... I'm not the most proficient in these skills, but a constant hunger to learn means I'm always trying out new things.
+I could keep pinning badges but ya get the point... I'm not the most proficient wizard in these skills, but a constant drive to learn and experiment means I'm always trying out new things.
 
 ## Current Role:
-Graduated from BCIT's CST program and entering the job market (pray for me) and building some pet projects I've been thinking of for a while.
+Graduated from BCIT's CST program and entering the job market (pray for me), and building some pet projects I've been thinking of for a while.
 
 ### Previous experience:
 - CTO @ Enactus BCIT and Lead Developer on the Ecometer project, a Ruby on Rails app that helps restaurant goers make informed choices regarding restaurants' sustainability.
