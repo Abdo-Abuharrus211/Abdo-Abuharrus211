@@ -1,4 +1,4 @@
-# Ya hala!
+# Seems like you've stumbled upon my humble GH!
 I'm Abdu. I like to code things I need, watch them break, scratch my head wondering why, and try to fix them.
 
 ## Skills
