@@ -1,7 +1,11 @@
-# Seems like you've stumbled upon my humble GH!
-I'm Abdu. I like to build solutions to problems I'm facing, watch them break, scratch my head wondering why, and try to fix them.
+# Hey, I'm Abdu.
+Thanks for visiitng!
+
+I enjoy building solutions for my to problems, watch them break, scratch my head wondering why, and try to fix them...Sometimes, it works!
 
 ### Things I know
+This isn't an extensive list as my projects and experience has exposed me to many more.
+
 | Category              | Skills                                                                                                      |
 | --------------------- | ----------------------------------------------------------------------------------------------------------- |
 | Programming Languages | Python, TypeScript, Rust, C/C++, C#, Java, Go, Elixir, PowerShell                                           |
@@ -10,7 +14,6 @@ I'm Abdu. I like to build solutions to problems I'm facing, watch them break, sc
 | Dev Tools             | Docker, Expo, Git, GitHub, Azure DevOps, Bitbucket, Supabase                                                |
 | Other                 | Linux, REST APIs, Unit Testing, Functional Programming, Jira, Asana, ServiceNow, Figma, Postman, SourceTree |
 
-This isn't an extensive list as my projects and experience has exposed me to many more.
 
 ## Contact Info
 Please check out my [website](https://aabuharrus.dev/) or send me an email at abdu@aabuharrus.dev
